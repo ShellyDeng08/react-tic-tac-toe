@@ -1,7 +1,7 @@
 
 
 ### Project Detail
-
+![屏幕录制2024-01-08 上午11 23 31](https://github.com/ShellyDeng08/react-tic-tac-toe/assets/149735476/00612a29-29ee-4ea2-b560-11aa319d3b8f)
 ### `npm start`
 
 Runs the app in the development mode.\
