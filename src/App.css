@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.square-btn {
+  display: inline-block;
+  min-width: 40px;
+  min-height: 40px;
+  font-size: 25px;
+  font-weight: bold;
+  vertical-align: middle;
+}
